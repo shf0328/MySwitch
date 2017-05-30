@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Switch</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="str_logic">逻辑型</string>
+    <string name="str_security">安保型</string>
+    <string name="str_teamwork">团队型</string>
+    <string name="str_bachelor">求偶型</string>
+    <string name="str_aggressive">激进型</string>
+    <string name="str_spouse">配偶型</string>
+    <string name="str_parent">父母型</string>
+    <string name="str_avoider">闭锁型</string>
+    <string name="sharedpreference">FieldToImgBase64</string>
+</resources>

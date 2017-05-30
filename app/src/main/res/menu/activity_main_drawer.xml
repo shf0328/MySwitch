@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/nav_logic" android:icon="@drawable/ic_menu_logic"
+            android:title="@string/str_logic" />
+        <item android:id="@+id/nav_security" android:icon="@drawable/ic_menu_security"
+            android:title="@string/str_security" />
+        <item android:id="@+id/nav_teamwork" android:icon="@drawable/ic_menu_teamwork"
+            android:title="@string/str_teamwork" />
+        <item android:id="@+id/nav_bachelor" android:icon="@drawable/ic_menu_bachelor"
+            android:title="@string/str_bachelor" />
+        <item android:id="@+id/nav_aggressive" android:icon="@drawable/ic_menu_aggressive"
+            android:title="@string/str_aggressive" />
+        <item
+            android:id="@+id/nav_spouse"
+            android:icon="@drawable/ic_menu_spouse"
+            android:title="@string/str_spouse" />
+        <item android:id="@+id/nav_parent" android:icon="@drawable/ic_menu_parent"
+            android:title="@string/str_parent" />
+        <item android:id="@+id/nav_avoider" android:icon="@drawable/ic_menu_avoider"
+            android:title="@string/str_avoider" />
+    </group>
+
+    <item android:title="@string/action_settings">
+        <menu>
+            <item android:id="@+id/nav_setting" android:icon="@drawable/ic_menu_manage"
+                android:title="Setting Image" />
+        </menu>
+    </item>
+
+</menu>
